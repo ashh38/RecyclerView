@@ -1,0 +1,148 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RecyclerView</string>
+
+    <string name="news_a">
+        Self-playing Ukulele Robot Using Arduino.
+        Parts
+            Ukulele (any cheap model will do) Amazon
+            Arduino Uno Amazon
+            L293D Motor Driver Shield Amazon
+            8× 12V Solenoid Amazon
+            Nema 17 stepper Amazon
+            TMC2208 stepper driver Amazon
+            Mini breadboard Amazon
+            150mm MGN9B linear rail w/ block Amazon
+            GT2 6mm timing belt Amazon
+            Pulley and idler Amazon
+            Micro servo Amazon
+            12V 10A power supply Amazon
+            Solid core wire (22 AWG) Amazon
+            M3 nuts and bolts Amazon
+        Tools
+            3D Printer
+            Soldering Iron
+            Screwdriver
+            Multimeter
+    </string>
+
+    <string name="news_b">
+        AZIMUTH the Worlds First 3D Printed Compass.
+        The working of a compass has always fascinated me, and a few days ago I gave myself the challenge of making what
+        could be the first open source 3D printed compass in the world. this is where the AZIMUTH project was born.
+        For this project knowing how to use a 3D printer, a laser engraver or a "CNC" would be a great asset but not necessarily necessary :).
+        For supplies we need :
+            one neodymium magnet size D10x4mm
+            Two colors of 3D printed filaments of your choice (orange and grey PLA for me)
+            a 2mm sheet of transparent acrylic, size 100x200 mm
+            Cyanoacrylate glue (I use the super glue 110 brand)
+        for machines we need :
+            a 3D printer
+            a laser engraver cutter or a CNC machine
+        AZIMUTH is a magnetic compass composed of an external 3D printed housing, two transparent
+        acrylic parts with a graduated dial and a two-color needle (orange and gray) composed of a
+        neodymium magnet; the orange part of the needle always points north. The acrylic needle and
+        dial were added during printing.
+    </string>
+
+    <string name="news_c">Design and 3D Print a Life-Size Pointing Hand Key Hook: a Makers Guide to Functional Art.
+        "Well, thats a boring place for a key, how could I spice this up?" is exactly what I thought upon moving into my off-campus senior housing. In this Instructable, well guide you through the process of creating a unique, eye-catching key hook that merges form and function. The goal was to create an art piece that doubles as a functional key hook, replacing a simple nail while adding intrigue and interactivity to the space. That is how I landed on a life-size replica of my own hand and finger holding my keychain on a daily basis.
+            This project, developed for my Makers Workshop class, showcases the power of rapid prototyping and iterative design. By transforming a digital 3D model into a tangible, life-size hand-shaped key hook, youll explore the intersection of digital fabrication and practical home decor. Whether youre a seasoned maker or a curious beginner, this project will challenge your creativity and technical skills. Lets embark on this journey of ideation, prototyping, and creation!
+    </string>
+
+
+    <string name="news_d">
+        Matcha Cookie With .stls to Print Your Cookie Press System.
+        I made a print files for easy cookie press system and I thought I added here a tutorial how to use them with my recipe.
+        Resiple is very versatile, but this is not fast, I make this easy and chill it. But the easiness is more important than the fastness! You need at least few hours to chill, but you can keep it in the fridge for a day or even two. Bake when you have time.
+        I am so sorry, I didnt happen to take pics when I was mixing the dough, because in the time I didnt think Ill post it here, I was just going to put it as addition to my Printables post. But heres what you need!
+        150g baking margarine. Butter is not better here, do NOT replace with butter. If you do, it will behave differently and you will need different amount of stuff.
+        5dl flour, I use just regular flour.
+        1dl sugar. That doesnt sound much, but I really dont like it any sweeter. If you like supersweet this is something you can add more! Or try different kind of sugars.
+        1egg, but you can leave it out. I like it better with, but sometimes Im out of eggs and its just fine.
+        splash of milk. It doesnt need much and it doesnt need to be milk, you can use any liquid.
+        1teaspoon of baking powder
+        generously vanillasugar if you like that, if you dont, just leave out!
+        I TRY to remember to add some salt, but I usually forget, it is nice addition, but not in any way critical.
+        You can add any spices you like, here I added hefty spoonfull of matcha powder. It does not need to be dry powder, sometimes I make these with black sesame paste and I just LOOOOOVE those, so I guess you can add what you like. Peanutbutter? Havent tried it, but if sesame paste works, why wouldnt peanut butter!
+    </string>
+
+    <string name="news_e">Horror Movie Inspired Door 🚪🪓 Halloween Decoration.
+        This Instructable will show you how to build your very own horror movie inspired door!
+        I actually made this for our horror-themed Airbnb in Big Bear, CA but I think it would make for an incredible Halloween decoration! You could fairly easily swap it out with a regular door in your house just by pulling the pins on your door hinges and swapping it out.
+        It features a small door that opens for a Jack Torrance-style moment and even includes an embedded axe!
+        Lets get to it!
+        Supplies:
+            Solid wood, four-panel door in your desired width and height
+            These can be a little tricky to find. You may have better luck finding a six-panel door which I think would still give you a good look even though the movie uses a four-panel. But make sure it is solid wood so that you can cut out the jack Torrance hole!
+            Painters tape
+            Small Hinges
+            Sandpaper
+            White Bolt Latch
+            Door handle and lock
+            White paint
+            Axe
+            Construction adhesive
+            Wood filler
+            Red paint for “Redrum” text
+        Tools:
+            Jigsaw
+            Router
+            Screwdriver
+            Vinyl cutter (optional for stenciling)
+    </string>
+
+    <string name="news_f">“Discover” a New Mushroom Species.
+            Hey Citizen Scientist, want to discover a new species? Your best bet is in the kingdom Fungi, where scientists estimate there are 2.5 million species and that 90% of them are undescribed.
+            Most species of plants and animals have been "discovered" or described by scientists, but fungi remain significantly under-studied. This gives every one of us, as citizen scientists, a unique opportunity to contribute our discoveries to the rapidly growing body of knowledge about these weird/fascinating/otherworldly organisms known as Fungi. The easiest part of a fungus to see is a mushroom (the macroscopic fruiting body where some fungi produce their spores). Take a closer look in your backyard, or out on a hike, and you could stumble upon a new species of mushroom. With a few simple tools, you can make a scientific discovery or learn to identify a mushroom you didnt know about before.
+            Even if you dont discover something new to science, you may discover a new to you mushroom,
+            identify a new wild snack (***caution: only eat a mushroom you can 100% positively ID!), get some cool pictures, or just spend some quality time outdoors. Its a win-win!
+            *The two mushrooms pictured above were tagged as potential undescribed species and are awaiting DNA sequencing confirmation
+            You can get as fancy as you like with this, but the essentials are pretty generic and you may already have everything you need laying around the house.
+
+            Required:
+                    Cell phone with camera
+                    Knife (pocket knife works best)
+                    Waxed paper bags or tacklebox
+                    Clothes that you dont mind getting dirty
+                    Notepad or slips of paper
+            Recommended:
+                    Hiking shoes or muck boots
+                    Rain coat
+                    Mushroom basket
+                    Stiff paintbrush
+                    Snacks and extra water
+                    Sunscreen and bug spray
+    </string>
+
+    <string name="news_g">Explore the Physics of Soap Films With the SoapFilmScope
+        The idea for this project came from reading an article by Gaulon et al. [1]. The authors describe in detail the use of soap film as an educational aid to explore interesting effects in the fluid dynamics of this system. In particular, they examine the impact of acoustic waves on the unique optical properties of the film. In this Instructable, we have designed a device called the SoapFilmScope to perform these experiments. This tutorial will guide you through the process of creating this device, showcasing the mesmerizing interaction between sound waves and liquid membranes. The SoapFilmScope offers an engaging way to explore the physics of acoustics, light interference, and fluid dynamics.
+        The Science Behind The SoapFilmScope
+        Imagine a vertical soap film, delicately suspended at the end of a tube, dancing to the rhythm of music. This is not just a vivid imagination but a reality where colours swirl, split, and merge in synchrony with the music, thanks to the iridescence in the soap film. This captivating display is not only beautiful but also rich in physics.
+        When a sound wave travels through the tube and vibrates the soap film, it creates dynamic patterns through several fascinating mechanisms:
+        Acoustic Propagation: Sound waves travelling through the tube interact with the soap film, inducing capillary waves.
+        Light Interference: Iridescence, caused by interference of light waves reflecting off the thin layers of the soap film, creates vibrant, shifting colours.
+        Fluid Dynamics: The soap film responds to sound waves with both oscillatory and non-oscillatory flows, leading to vortex generation, complex diphasic patterns, and even film swelling under certain conditions.
+        These effects occur on various characteristic time scales, intricately linked to the timing of the music being played. By exploring these interactions, the SoapFilmScope not only serves as an artistic expression but also as an educational tool, making the science behind these phenomena accessible and engaging.
+        The article mentioned at the beginning, along with the references therein and classic books [2-4] on the subject, provide further information on the physics of soap films. Interested readers can consult these sources to gain a deeper understanding of the phenomena.
+        In this Instructable, we will guide you through the steps to build your own SoapFilmScope. Specifically, we will cover how to:
+        Construct the Device: Assemble the necessary components to create a setup where a soap film can be vibrated by sound waves.
+        Experiment with Sound and Film: Use different sound frequencies and types of music to observe various patterns and effects in the soap film.
+        Explore the Physics: Gain insights into the underlying physics, including acoustic propagation, light interference, and fluid dynamics, that produce mesmerizing effects.
+    </string>
+
+    <string name="news_h">Tims Mini Plotter 2 With Single PCB.
+       Story
+        This is a PCB from PCBWay PCB Version of mini plotter I did quit a while ago, my original mini plotter I made of standard modules I bought and a home made PCB.
+        Details of the original can be found at my Blog.
+        BulletTims Mini Plotter 2
+        Bullet I go into more detail on how I compressed files to fit on the memory in my blog.
+        PCB from PCBWay do a great offer in prototyping PCBs, so I decided to make a version based around a single PCB. This is the same as the original except for the electronics, it has been made slightly longer to accommodate a single PCB.
+        My Brief
+        For this project, I wanted to make a compact portable plotter using 2 motors from CD/DVD Drives. I wanted to use the cheap L298 drivers. I wanted to give it some memory where it can store some plots, and have a menu system to set some basic settings and be able to chose plots stored in memory.
+        What I use
+        I use FreeCAD to design my 3D Prints, and KiCAD EDA to design my PCB. Both these programs can integrate with each other. They are open source and I recommend them. KiCAD EDA also has a plugin from PCB from PCBWay that makes it simple to order PCBs.
+        There are some Live Streams I did when making this.
+        Bullet Treat my live streams like you would a reference book, click through it to find bit you are interested in.
+    </string>
+
+</resources>
